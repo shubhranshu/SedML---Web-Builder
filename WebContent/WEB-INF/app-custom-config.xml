@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<custom-config>
+	<models>
+		<model url="http://models.cellml.org/workspace/baylor_hollingworth_chandler_2002/@@rawfile/12fa50bd78a61d4e11edfbb20cb48ff488aab209/baylor_hollingworth_chandler_2002_a.cellml"/>
+		<model url="http://models.cellml.org/workspace/albrecht_colegrove_hongpaisan_pivovarova_andrews_friel_2001/@@rawfile/cad3ad0bd5827cbe57952ac9919506cc33ea408c/albrecht_colegrove_hongpaisan_pivovarova_andrews_friel_2001.cellml"/>
+</models>
+	<tools>
+</tools>
+</custom-config>

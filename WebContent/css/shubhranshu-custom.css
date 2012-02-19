@@ -1,0 +1,39 @@
+
+.iconFL{
+	float:left;
+	cursor:pointer;
+}
+
+.element{
+	cursor:default;
+	margin-top:3px;
+	margin-bottom:3px;
+}
+
+.attribute{
+	margin-left:20px;
+	margin-top:3px;
+	margin-bottom:3px;
+}
+
+.attribute-name{
+	float: left;
+	min-width:100px;
+}
+
+.options{
+	margin-left:20px;
+	cursor:pointer;
+	margin-top:3px;
+	margin-bottom:3px;
+	
+}
+
+.validation-dialog{
+	display:none;
+}
+
+.cursor{
+	cursor:pointer;
+	display: inline-block;
+}

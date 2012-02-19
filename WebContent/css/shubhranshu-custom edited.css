@@ -1,0 +1,27 @@
+
+.iconFL{
+	float:left;
+	/*cursor:pointer;*/
+}
+
+.cursor{
+	cursor:pointer;
+}
+
+.element{
+	margin-left:20px;
+	cursor:default;
+}
+
+.attribute{
+	margin-left:20px;
+}
+
+.options{
+	margin-left:20px;
+	cursor:pointer;
+}
+
+.validation-dialog{
+	display:none;
+}
